@@ -1,0 +1,5 @@
+hue:
+  configuration:
+    api_url: http://nightly7x-us-kq-4.nightly7x-us-kq.root.hwx.site:8889
+    username: admin
+    password: admin
